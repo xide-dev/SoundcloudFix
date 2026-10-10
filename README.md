@@ -12,6 +12,7 @@ our port - 8.65.0 + NexaSc ( no ads )
 we made it work!
 
 [Download IPA 8.65.0 iOS 16.2+](https://github.com/xide-dev/SoundcloudFix/releases/download/Beta/SoundCloud-8.65.0-NexaSC-v3.ipa)
+
 [Download IPA 7.68.1 iOS 15.0+](https://github.com/xide-dev/SoundcloudFix/releases/download/untagged-5fee770eacd3a547e630/SoundCloud_7.68.1_iOS15_Fixed.ipa)
 
 
